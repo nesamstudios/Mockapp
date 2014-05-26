@@ -1,0 +1,31 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="master_a-master.css" crc="137099444" ref="untitled-4:untitled-7:untitled-2:untitled-3:untitled-5:untitled-6:index"/>
+    <file name="untitled-4.css" crc="329698138" ref="untitled-4"/>
+    <file name="untitled-7.css" crc="320861578" ref="untitled-7"/>
+    <file name="untitled-2.css" crc="103116704" ref="untitled-2"/>
+    <file name="untitled-3.css" crc="3938670278" ref="untitled-3"/>
+    <file name="untitled-5.css" crc="104693952" ref="untitled-5"/>
+    <file name="untitled-6.css" crc="4165402420" ref="untitled-6"/>
+    <file name="index.css" crc="19534071" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7"/>
+    <file name="museutils.js" crc="3865766194" ref="index:untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7"/>
+    <file name="pie.js" crc="3827607177" ref="index:untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7"/>
+  </folder>
+  <folder name="images">
+    <file name="skin_side_up-page-fr.png" crc="4213565697" ref="index:untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7"/>
+    <file name="u113-4.png" crc="453477015" ref="index:untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7"/>
+  </folder>
+  <file name="index.html" crc="3971628283" mt="1401130635194" redirect="true"/>
+  <file name="untitled-2.html" crc="494000695" mt="1401130648131" redirect="true"/>
+  <file name="untitled-3.html" crc="4083590930" mt="1401130655344" redirect="true"/>
+  <file name="untitled-4.html" crc="3939448263" mt="1401130663391" redirect="true"/>
+  <file name="untitled-5.html" crc="332006826" mt="1401130675684" redirect="true"/>
+  <file name="untitled-6.html" crc="367214361" mt="1401130686999" redirect="true"/>
+  <file name="untitled-7.html" crc="133206651" mt="1401130700382" redirect="true"/>
+</manifest>
